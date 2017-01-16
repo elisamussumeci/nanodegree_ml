@@ -1,5 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
-../.idea/
 README.md
 titanic_data.csv
 .ipynb_checkpoints/
+report.html
+.DS_Store
