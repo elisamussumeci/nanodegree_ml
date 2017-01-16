@@ -1,8 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 ../.idea/
-titanic_survival_exploration/.DS_Store
-titanic_survival_exploration/.ipynb_checkpoints/
-titanic_survival_exploration/README.md
-titanic_survival_exploration/Titanic_Survival_Exploration_PT.ipynb
-titanic_survival_exploration/titanic_data.csv
-titanic_survival_exploration/titanic_visualizations.py
+README.md
+titanic_data.csv
+.ipynb_checkpoints/
